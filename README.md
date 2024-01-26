@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Hakan, I'm a student at [SUBU](https://www.subu.edu.tr/tr). I am improving my skills in web development.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/asimetra404?theme=dark&font=Inter)
 
 <!--
 **simy404/simy404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
