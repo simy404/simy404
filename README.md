@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-"I'm Hakan. I graduated from [SUBU](https://www.subu.edu.tr/tr) and am currently a student at [SAU](https://seng.sakarya.edu.tr/) and [42](https://42kocaeli.com.tr/), I am improving my skills in development."
+"I'm Hakan. I graduated from [SUBU](https://www.subu.edu.tr/tr) and am currently a student at [SAU](https://seng.sakarya.edu.tr/) and [42](https://42kocaeli.com.tr/), I am improving my skills in software development."
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/asimetra404?theme=dark&font=Inter)
 
